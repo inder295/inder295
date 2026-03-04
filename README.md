@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Inderpreet Singh</h1>
+<h3 align="center">Full Stack MERN Developer | Blockchain Research Author</h3>
 
-<!--
-**inder295/inder295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 I build scalable full-stack applications  
+📚 B.Tech IT Graduate (2024)  
+📄 Published Blockchain Research Paper (Springer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- React.js | Node.js | Express.js
+- MongoDB | PostgreSQL
+- Socket.io (Real-time apps)
+- JWT Authentication
+- Stripe Payment Integration
+- Solidity & Web3
+
+---
+
+## 🔥 Featured Projects
+- 💬 Real-time Chat App (Socket.io + Gemini API)
+- 🗳 Blockchain Voting DApp
+- 📦 Parcel Tracking System (MERN)
+- ✍ PERN Blogging Platform
+
+---
+
+## 🌱 Currently Learning
+- System Design
+- Scalable Backend Architecture
+- Advanced React Patterns
+
+---
+
+💡 “Consistency beats motivation.”

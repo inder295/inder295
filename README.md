@@ -17,6 +17,7 @@
 
 
 ## 🔥 Featured Projects
+- 📦 E2e Pern Eccomerce (Stripe Api + Admin Panel)
 - 💬 Real-time Chat App (Socket.io + Gemini API)
 - 🗳 Blockchain Voting DApp
 - 📦 Parcel Tracking System (MERN)
